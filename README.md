@@ -5,7 +5,7 @@ This application allows users to perform basic arithmetic as well as scientific 
 
 ---
 
-🚀 Features
+🚀 Features 
 
 🔢 Basic Operations
 
