@@ -9,42 +9,42 @@ This application allows users to perform basic arithmetic as well as scientific 
 
 🔢 Basic Operations
 
-Addition (+)
+• Addition (+)
 
-Subtraction (−)
+• Subtraction (−)
 
-Multiplication (×)
+• Multiplication (×)
 
-Division (÷)
+• Division (÷)
 
 
 📐 Scientific Functions
 
-Square (x²)
+• Square (x²)
 
-Square Root (√)
+• Square Root (√)
 
-Trigonometric Functions:
+• Trigonometric Functions:
 
-sin()
+• sin()
 
-cos()
+• cos()
 
-tan()
+• tan()
 
 
 
 🛠️ Utility Functions
 
-Clear button to reset input
+• Clear button to reset input
 
-Backspace (⌫) to delete last digit
+• Backspace (⌫) to delete last digit
 
-Input validation with error messages
+• Input validation with error messages
 
-Prevents division by zero
+• Prevents division by zero
 
-Handles invalid inputs like √ of negative numbers
+• Handles invalid inputs like √ of negative numbers
 
 
 
@@ -52,13 +52,13 @@ Handles invalid inputs like √ of negative numbers
 
 🖥️ User Interface
 
- - Built using Java Swing
+ • Built using Java Swing
 
-- Simple and user-friendly layout
+• Simple and user-friendly layout
 
-- Displays ongoing operation at the top
+• Displays ongoing operation at the top
 
-- Interactive buttons for all inputs
+• Interactive buttons for all inputs
 
 
 
@@ -66,15 +66,15 @@ Handles invalid inputs like √ of negative numbers
 
 🧠 Concepts Used
 
-- Java Swing (GUI)
+• Java Swing (GUI)
 
-- Event Handling (ActionListener, Lambda Expressions)
+• Event Handling (ActionListener, Lambda Expressions)
 
-- Mathematical functions using Math class
+• Mathematical functions using Math class
 
-- Input validation & exception handling
+• Input validation & exception handling
 
-- String manipulation
+• String manipulation
 
 
 
@@ -108,39 +108,34 @@ java Calculator_Scientific
 
 ⚠️ Validations Implemented
 
-- Shows message if input field is empty
+ • Shows message if input field is empty
 
-- Prevents division by zero
+• Prevents division by zero
 
-- Prevents square root of negative numbers
+• Prevents square root of negative numbers
 
-- Handles undefined values like tan(90)
+• Handles undefined values like tan(90)
 
 
 
 ---
 
-📸 Screenshots
+## 📸 Screenshot
 
-- Add your GUI screenshots here (recommended):
-
-- Main Calculator UI
-
-- Scientific functions usage
-
+![Calculator UI](calculator_scientific.png)
 
 
 ---
 
 💡 Future Improvements
 
-- Add logarithmic functions (log, ln)
+• Add logarithmic functions (log, ln)
 
-- Add memory functions (M+, M-, MR)
+• Add memory functions (M+, M-, MR)
 
-- Improve UI design using layouts instead of absolute positioning
+• Improve UI design using layouts    instead of absolute positioning
 
-- Add keyboard input support
+• Add keyboard input support
 
 
 
