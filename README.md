@@ -5,6 +5,11 @@ This application allows users to perform basic arithmetic as well as scientific 
 
 ---
 
+## Live Demo
+ https://shraddhapawar0802-dev.github.io/Calculator-Scientific/
+ 
+---
+
 🚀 Features 
 
 🔢 Basic Operations
